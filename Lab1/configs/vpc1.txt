@@ -1,0 +1,8 @@
+NAME        : VPC1[1]
+IP/MASK     : 10.0.10.1/24
+GATEWAY     : 10.0.10.2
+DNS         :
+MAC         : 00:50:79:66:68:0a
+LPORT       : 20000
+RHOST:PORT  : 127.0.0.1:30000
+MTU         : 1500
